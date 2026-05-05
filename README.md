@@ -1,6 +1,6 @@
-# Mon Portfolio Web
+# Le portfolio de Robbie Lens Photographie
 
-Bienvenue sur mon site web personnel ! Ce projet présente mon portfolio, mes compétences et mes projets.
+Bienvenue sur le site web personnel de Robbie ! Ce projet présente mon portfolio, mes compétences et mes projets.
 
 ## Structure du projet
 
@@ -22,8 +22,14 @@ Bienvenue sur mon site web personnel ! Ce projet présente mon portfolio, mes co
 
 ## Auteur
 
-[Votre nom] - [Votre email ou lien vers votre profil]
+Robbie Lens Photographie
 
 ## Licence
 
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
+
+## Fait avec
+
+- HTML5
+- CSS3  
+Par BAYE LAHAD DIA
